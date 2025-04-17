@@ -1,6 +1,6 @@
-package com.example.userauthsystem.entity;
+package com.example.usermanagementsystem.entity;
 
-import com.example.userauthsystem.enums.Role;
+import com.example.usermanagementsystem.enums.Role;
 import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.data.annotation.CreatedDate;

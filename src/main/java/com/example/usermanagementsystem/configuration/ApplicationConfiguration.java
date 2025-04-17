@@ -1,6 +1,6 @@
 package com.example.usermanagementsystem.configuration;
 
-import com.example.userauthsystem.repository.UserRepository;
+import com.example.usermanagementsystem.repository.UserRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import lombok.RequiredArgsConstructor;

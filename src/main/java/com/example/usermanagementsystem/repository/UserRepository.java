@@ -1,7 +1,7 @@
-package com.example.userauthsystem.repository;
+package com.example.usermanagementsystem.repository;
 
 
-import com.example.userauthsystem.entity.User;
+import com.example.usermanagementsystem.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

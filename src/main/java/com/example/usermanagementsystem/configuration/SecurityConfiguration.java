@@ -1,6 +1,5 @@
 package com.example.usermanagementsystem.configuration;
 
-import com.example.usermanagementsystem.configuration.JwtAuthFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
